@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-5a-current-transformer-sensor-module-zmct103c",
+  "title": "5a-current-transformer-sensor-module-zmct103c",
+  "keywords": "5a-current-transformer-sensor-module-zmct103c, esp32, esp8266, arduino",
+  "description": "5a-current-transformer-sensor-module-zmct103c plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-5a-current-transformer-sensor-module-zmct103c/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-5a-current-transformer-sensor-module-zmct103c/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
